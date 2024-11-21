@@ -44,8 +44,8 @@ Installation
 
 	1.	Clone the Repository:
 
-git clone https://github.com/<your-username>/EventHackathonSearch.git
-cd EventHackathonSearch
+git clone https://github.com/Gokulakrishnankadhir/HACKFOLIO.git
+cd HACKFOLIO
 
 
 	2.	Setup Database:
